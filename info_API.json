@@ -1,0 +1,12 @@
+{
+    "Endpoint URL": "https://api.delta.exchange",
+    "path"  :   {
+        "initialdata"   :   "/chart/history",
+        "currentdata"   :   "/products/ticker/24hr",
+        "placeorder"    :   "NAN",
+        "closeorder"     :  "NAN"
+    },
+    "query" :   {
+        "symbol"    :   "BTCUSD"
+    }   
+}
